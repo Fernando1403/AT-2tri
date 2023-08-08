@@ -1,2 +1,1 @@
-# AT-2tri
-Projeto Ong proteção animal
+# Loja-de-Tenis-React
