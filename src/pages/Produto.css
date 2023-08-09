@@ -1,0 +1,24 @@
+.text-containerProd1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.content-wrapper {
+    display: flex;
+    align-items: center;
+    max-width: 1000px;
+    margin: 3rem;
+}
+
+.img-fluid1 {
+    max-height: 500px;
+    border-radius: 10px;
+    margin-left: 70px;
+    margin-right: -7rem;
+}
+
+.text-content {
+    flex: 1;
+}

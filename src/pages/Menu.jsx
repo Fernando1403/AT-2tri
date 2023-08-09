@@ -11,7 +11,7 @@ function Menu (){
         <div>
             <ColorSchemesExample/>
             <Carousel/><br/>
-            <Proposta/><br/>
+            <Proposta/><br/><br/>
             <Card1/><br/>
             <Footer/>
         </div>

@@ -7,6 +7,7 @@ import Produtos from './pages/Produtos';
 import Produto1 from "./pages/produto1";
 import Produto2 from "./pages/produto2";
 import Produto3 from "./pages/produto3";
+import Produto4 from "./pages/produto4";
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
             <Route path="/produto1" element={<Produto1/>}/>
             <Route path="/produto2" element={<Produto2/>}/>
             <Route path="/produto3" element={<Produto3/>}/>
+            <Route path="/produto4" element={<Produto4/>}/>
           </Routes>
     </BrowserRouter>
   </div>
