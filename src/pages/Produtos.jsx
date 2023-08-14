@@ -12,7 +12,7 @@ function Produto(){
             <ColorSchemesExample/>
 
             <div className="container">
-            <h2>Produtos</h2>
+
 
             <div className="row">
                 <Card/><br/>
