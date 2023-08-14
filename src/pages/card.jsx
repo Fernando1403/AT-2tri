@@ -29,7 +29,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 function Card1() {
   return (
     <>
-    <h3 className="container d-flex justify-content-center">Nossos Projetos</h3><br/>
+    <h2 className="container d-flex justify-content-center">Outros Projetos</h2><br/>
     <div className="d-flex p-2 justify-content-around">
       {DataBase.map((DataBase) => {
         return (
